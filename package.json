@@ -10,7 +10,7 @@
         "start": "nuxt start",
         "generate": "nuxt generate",
         "test": "jest",
-        "push-remote": "git stage && git add . && git commit -m 'auto commit' && git push origin"
+        "push-remote": "git add . && git commit -m auto && git push origin"
     },
     "dependencies": {
         "nuxt": "^2.0.0",
