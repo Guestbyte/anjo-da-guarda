@@ -1,10 +1,10 @@
-# vuetify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/233ad5d7-aa43-494f-a721-e1e0f49594b5/deploy-status)](https://app.netlify.com/sites/anjodaguarda/deploys)
-> My posh Nuxt.js project
+# Guardian Angel - The Game (Anjo da Guarda - O Jogo)
+
+> Description is coming...
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
@@ -19,4 +19,4 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/233ad5d7-aa43-494f-a721-e1e0f49594b5/deploy-status)](https://app.netlify.com/sites/anjodaguarda/deploys)
