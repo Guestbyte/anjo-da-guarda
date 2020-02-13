@@ -1,5 +1,5 @@
 # vuetify
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/233ad5d7-aa43-494f-a721-e1e0f49594b5/deploy-status)](https://app.netlify.com/sites/anjodaguarda/deploys)
 > My posh Nuxt.js project
 
 ## Build Setup
