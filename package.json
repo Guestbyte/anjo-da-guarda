@@ -13,9 +13,10 @@
         "push-remote": "git add . && git commit -m auto_updated && git push origin"
     },
     "dependencies": {
-        "nuxt": "^2.0.0",
         "@nuxtjs/axios": "^5.3.6",
-        "@nuxtjs/pwa": "^3.0.0-0"
+        "@nuxtjs/pwa": "^3.0.0-0",
+        "nuxt": "^2.0.0",
+        "p5": "^0.10.2"
     },
     "devDependencies": {
         "@nuxtjs/vuetify": "^1.0.0",

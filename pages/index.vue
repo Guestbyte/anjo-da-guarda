@@ -80,6 +80,7 @@
 <script>
 import Logo from "~/components/Logo.vue";
 import VuetifyLogo from "~/components/VuetifyLogo.vue";
+// import p5 from "~/node_modules/p5/lib/p5"
 
 export default {
   components: {
