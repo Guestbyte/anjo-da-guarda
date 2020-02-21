@@ -1,9 +1,9 @@
 module.exports = {
-  "transpileDependencies": [
-    "vuetify"
-  ],
+    "transpileDependencies": [
+        "vuetify"
+    ],
 
-  pwa: {
-    name: 'Anjo da Guarda - O Jogo'
-  }
+    pwa: {
+        name: 'Anjo da Guarda - O Jogo'
+    }
 }
