@@ -27,15 +27,20 @@
 
       <v-spacer />
 
-      <v-tab to="/">Home</v-tab> |
-      <v-tab to="/about">About</v-tab> |
-      <v-tab to="/game">Game</v-tab>
-
+      <v-tab to="/">
+        Home
+      </v-tab> |
+      <v-tab to="/about">
+        About
+      </v-tab> |
+      <v-tab to="/game">
+        Game
+      </v-tab>
     </v-app-bar>
 
     <v-content>
       <!-- <HelloWorld /> -->
-      <router-view></router-view>
+      <router-view />
     </v-content>
   </v-app>
 </template>
